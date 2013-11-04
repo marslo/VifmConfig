@@ -6,4 +6,4 @@ The configuration for VIFM
 Add the `.vifm` folder to `$HOME`
 
 ##Screenshot
-![vifm_marslo](https://github.com/woainvzu/vifm_config_marslo/blob/master/vifm_marslo.png?raw=true)
+![vifm_marslo](https://github.com/Marslo/VifmConfig/blob/master/Screenshot/vifm_marslo.png?raw=true)
