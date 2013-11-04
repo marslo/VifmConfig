@@ -1,0 +1,538 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/marslo
+	../
+'a
+	/home/marslo/.vifm
+	vifminfo
+'b
+	/home/marslo/bin/
+	../
+'c
+	/home/marslo/Study/Codes
+	../
+'d
+	/home/marslo/Accessory/Music
+	Personal/
+'e
+	/home/marslo/Accessory
+	../
+'h
+	/home/marslo/
+	../
+'k
+	/home/marslo/Study/Scripts/MySQL
+	燕十八公益讲堂-复习秘籍.html
+'m
+	/home/marslo/.vifm
+	vifminfo
+'n
+	/home/marslo/Study/Notes
+	../
+'s
+	/home/marslo/Study/Scripts
+	../
+'t
+	/home/marslo/Tools
+	../
+'v
+	/home/marslo/.vifm
+	../
+'z
+	/home/marslo
+	Desktop/
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/marslo
+	../
+0
+d/home/marslo/Tools
+	Download/
+2
+d/home/marslo/Tools/Download
+	profile.html
+12
+d/home/marslo
+	Desktop/
+2
+d/home/marslo/Desktop
+	../
+0
+d/home/marslo
+	Desktop/
+2
+d/home/marslo/Desktop
+	../
+0
+d/home/marslo
+	Study/
+3
+d/home/marslo/Study
+	../
+0
+d/home/marslo
+	Accessory/
+1
+d/home/marslo/Accessory
+	Music/
+3
+d/home/marslo/Accessory/Music
+	Time/
+3
+d/home/marslo/Accessory/Music/Time
+	2012.12.06/
+3
+d/home/marslo/Accessory/Music/Time/2012.12.06
+	../
+0
+d/home/marslo/Accessory/Music/Time
+	../
+0
+d/home/marslo/Accessory/Music
+	Time/
+3
+d/home/marslo/Accessory/Music/Time
+	../
+0
+d/home/marslo/Accessory/Music
+	Personal/
+1
+d/home/marslo/Accessory/Music/Personal
+	Katherine Jenkins/
+3
+d/home/marslo/Accessory/Music/Personal/Katherine Jenkins
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	The lower light/
+4
+d/home/marslo/Accessory/Music/Personal/The lower light
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	Various Artists/
+5
+d/home/marslo/Accessory/Music/Personal/Various Artists
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	Various Artists/
+5
+d/home/marslo/Accessory/Music
+	Personal/
+1
+d/home/marslo/Accessory/Music/Personal
+	Various Artists/
+5
+d/home/marslo/Accessory/Music
+	Personal/
+1
+d/home/marslo/Accessory/Music/Personal
+	Various Artists/
+5
+d/home/marslo/Accessory/Music/Personal/Various Artists
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	Various Artists/
+5
+d/home/marslo/Accessory/Music
+	Personal/
+1
+d/home/marslo/Accessory
+	Images/
+1
+d/home/marslo/Accessory/Images
+	../
+0
+d/home/marslo/Accessory
+	Movies/
+2
+d/home/marslo/Accessory/Movies
+	../
+0
+d/home/marslo/Accessory
+	Music/
+3
+d/home/marslo/Accessory/Music
+	Personal/
+1
+d/home/marslo/Accessory/Music/Personal
+	New folder/
+4
+d/home/marslo/Accessory/Music/Personal/New folder
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	New folder/
+4
+d/home/marslo/Accessory/Music/Personal/New folder
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	Joy/
+3
+d/home/marslo/Accessory/Music/Personal/Joy
+	../
+0
+d/home/marslo/Accessory/Music/Personal
+	../
+0
+d/home/marslo/Accessory/Music
+	Personal/
+1
+d/home/marslo/Accessory
+	Music/
+3
+d/home/marslo
+	Study/
+3
+d/home/marslo/Study
+	Scripts/
+3
+d/home/marslo/Study/Scripts
+	MySQL/
+3
+d/home/marslo/Study/Scripts/MySQL
+	Cookbook/
+1
+d/home/marslo/Study/Scripts/MySQL/Cookbook
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	Cookbook/
+1
+d/home/marslo/Study/Scripts/MySQL/Cookbook
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	燕十八/
+5
+d/home/marslo/Study/Scripts/MySQL/燕十八
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	燕十八/
+5
+d/home/marslo/Study/Scripts/MySQL/燕十八
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	燕十八/
+5
+d/home/marslo/Study/Scripts/MySQL/燕十八
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	Video/
+4
+d/home/marslo/Study/Scripts/MySQL/Video
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	MySQL_for_Linux/
+3
+d/home/marslo/Study/Scripts/MySQL/MySQL_for_Linux
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	Documents/
+2
+d/home/marslo/Study/Scripts/MySQL/Documents
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	Cookbook/
+1
+d/home/marslo/Study/Scripts/MySQL/Cookbook
+	../
+0
+d/home/marslo/Study/Scripts/MySQL
+	Cookbook/
+1
+d
+
+# Right window history (oldest to newest):
+D/home/marslo
+	Tools/
+4
+D/home/marslo/Tools
+	Software/
+3
+D/home/marslo/Tools/Software
+	Development/
+1
+D/home/marslo/Tools/Software/Development
+	../
+0
+D/home/marslo/Tools/Software
+	Development/
+1
+D/home/marslo/Tools
+	Software/
+3
+D/home/marslo
+	Tools/
+4
+D/home/marslo/Tools
+	Software/
+3
+D/home/marslo/Tools/Software
+	System/
+5
+D/home/marslo/Tools/Software/System
+	../
+0
+D/home/marslo/Tools/Software
+	System/
+5
+D/home/marslo/Tools/Software/System
+	Errors/
+2
+D/home/marslo/Tools/Software/System/Errors
+	../
+0
+D/home/marslo/Tools/Software/System
+	Errors/
+2
+D/home/marslo/Tools/Software/System/Errors
+	../
+0
+D/home/marslo/Tools/Software/System
+	Errors/
+2
+D/home/marslo/Tools/Software
+	System/
+5
+D/home/marslo/Tools/Software/System
+	Errors/
+2
+D/home/marslo/Tools/Software/System/Errors
+	1.png
+1
+D/home/marslo/Tools/Software/System
+	Errors/
+2
+D/home/marslo/Tools/Software
+	System/
+5
+D/home/marslo/Tools
+	Software/
+3
+D/home/marslo
+	Tools/
+4
+D/home
+	marslo/
+1
+D/
+	media/
+9
+D/media
+	marslo/
+1
+D/media/marslo
+	MARSLO_16G/
+1
+D/media/marslo/MARSLO_16G
+	VIM/
+6
+D/media/marslo/MARSLO_16G/VIM
+	../
+0
+D/media/marslo/MARSLO_16G
+	VIM 20121204/
+7
+D/media/marslo/MARSLO_16G/VIM 20121204
+	../
+0
+D/media/marslo/MARSLO_16G
+	VIM 20121204/
+7
+D/media/marslo
+	MARSLO_16G/
+1
+D/media/marslo/MARSLO_16G
+	VIM 20121204/
+7
+D/media/marslo/MARSLO_16G/VIM 20121204
+	../
+0
+D/media/marslo/MARSLO_16G
+	VIM 20121204/
+7
+D/media/marslo/MARSLO_16G/VIM 20121204
+	../
+0
+D/media/marslo/MARSLO_16G
+	VIM 20121204/
+7
+D/media/marslo
+	MARSLO_16G/
+1
+D/media
+	marslo/
+1
+D/
+	media/
+9
+D/media
+	marslo/
+1
+D/media/marslo
+	MARSLO_16G/
+1
+D/media/marslo/MARSLO_16G
+	Music/
+4
+D/media/marslo/MARSLO_16G/Music
+	-Fast forward 滑头鬼之孙.mp3
+1
+D/media/marslo/MARSLO_16G
+	视频/
+9
+D/media/marslo/MARSLO_16G/视频
+	JSP/
+1
+D/media/marslo/MARSLO_16G/视频/JSP
+	../
+0
+D/media/marslo/MARSLO_16G/视频
+	JSP/
+1
+D/media/marslo/MARSLO_16G
+	视频/
+9
+D/media/marslo
+	MARSLO_16G/
+1
+D/media/marslo/MARSLO_16G
+	../
+0
+D/media/marslo
+	MARSLO_16G/
+1
+D/media/marslo/MARSLO_16G
+	Music/
+4
+D/media/marslo/MARSLO_16G/Music
+	-Fast forward 滑头鬼之孙.mp3
+1
+D/media/marslo/MARSLO_16G
+	New folder/
+6
+D/media/marslo/MARSLO_16G/New folder
+	周杰伦&温岚-屋顶(周杰伦对唱版).mp3
+1
+D/media/marslo/MARSLO_16G
+	VIM/
+6
+D/media/marslo
+	../
+0
+D/media
+	marslo/
+1
+D/media/marslo
+	../
+0
+D/media
+	marslo/
+1
+D/
+	home/
+5
+D/home
+	marslo/
+1
+D/home/marslo
+	Tools/
+4
+D/home/marslo/Tools
+	Download/
+2
+D/home/marslo/Tools/Download
+	°®Çé×ªÒÆ.mp3
+14
+D
+
+# Command line history (oldest to newest):
+:!cmp
+:colorscheme
+:mark z
+:cmd!
+:cm!
+:cmd
+:vicmd
+:s
+:link
+:mkdir Basic
+:mkdir Selection
+:w
+:mkdir Errors
+:mkdir
+:mkdir 2012.12.06
+:q
+:list
+:marklist
+:lmark
+:help
+:marks
+:mkdir Cookbook
+:mkdir 燕十八
+:x
+
+# Search history (oldest to newest):
+/h
+/vifm-help
+/vif
+/home
+/.vi
+/sur
+/usr
+/acc
+/Acc
+/Study
+/book
+/bok
+/desk
+/eng
+/time
+/vifm
+
+# Prompt history (oldest to newest):
+pvifmrc_bak_2
+pConfigures_bk
+p000_Tools_bk
+p000_Study-bk
+p000_Study_bk
+p__vifmrc__original
+p__vifmrc_bak_Marslo1
+p__vifmrc__bak_Marslo2
+p__vifmrc__original1
+p__vifmrc__bak__orginal2
+pJoy
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+F
+I1
+s0
